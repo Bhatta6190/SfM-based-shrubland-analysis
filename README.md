@@ -12,3 +12,5 @@ This project explores the use of **structural metrics** derived from **UAS-based
 **Keywords:** fynbos, unmanned aerial systems, structure-from-motion, classification, species diversity
 
 **Full Paper:** [Link to Paper](https://doi.org/10.3390/rs17162784)
+
+For resource usage and potential collaborations, contact: rb1005@rit.edu.
